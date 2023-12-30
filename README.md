@@ -1,0 +1,2 @@
+Sistema de gestão de funcionários por meio da implementação da arquitetura MVC. Este sistema permite o cadastro de funcionários em um banco de dados, realizando operações CRUD de forma intuitiva e eficaz.
+Foi utilizado Spring Boot no back-end, oferecendo robustez e escalabilidade, e Bootstrap no front-end, proporcionando uma interface moderna e responsiva. A estruturação do projeto segue o padrão Model-View-Controller, garantindo uma organização lógica e modular, facilitando a manutenção e escalabilidade.
